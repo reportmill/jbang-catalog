@@ -2,19 +2,19 @@
   "catalogs": {},
   "aliases": {
     "sc": {
-      "script-ref": "jbang/SnapCodeAll.java",
+      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
       "java-agents": []
     },
     "snapcode": {
-      "script-ref": "jbang/SnapCodeAll.java",
+      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
       "java-agents": []
     },
     "sb": {
-      "script-ref": "jbang/SnapBuilder.java",
+      "script-ref": "https://reportmill.com/jbang/SnapBuilder.java",
       "java-agents": []
     },
     "rm": {
-      "script-ref": "jbang/ReportMill.java",
+      "script-ref": "https://reportmill.com/jbang/ReportMill.java",
       "java-agents": []
     }
   },
