@@ -1,0 +1,22 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "sc": {
+      "script-ref": "jbang/SnapCodeAll.java",
+      "java-agents": []
+    },
+    "snapcode": {
+      "script-ref": "jbang/SnapCodeAll.java",
+      "java-agents": []
+    },
+    "sb": {
+      "script-ref": "jbang/SnapBuilder.java",
+      "java-agents": []
+    },
+    "rm": {
+      "script-ref": "jbang/ReportMill.java",
+      "java-agents": []
+    }
+  },
+  "templates": {}
+}
