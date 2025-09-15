@@ -6,7 +6,7 @@
       "java-agents": []
     },
     "snapcode": {
-      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
+      "script-ref": "jbang/SnapCodeAll.java",
       "java-agents": []
     },
     "sb": {
