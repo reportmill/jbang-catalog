@@ -1,22 +1,29 @@
 {
-  "catalogs": {},
   "aliases": {
     "sc": {
-      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
-      "java-agents": []
+      "script-ref": "com.reportmill:SnapCodeAll:2025.03",
+      "repositories": [
+        "https://reportmill.com/maven"
+      ]
     },
     "snapcode": {
-      "script-ref": "jbang/SnapCodeAll.java",
-      "java-agents": []
+      "script-ref": "com.reportmill:SnapCodeAll:2025.03",
+      "repositories": [
+        "https://reportmill.com/maven"
+      ]
     },
     "sb": {
-      "script-ref": "https://reportmill.com/jbang/SnapBuilder.java",
-      "java-agents": []
+      "script-ref": "com.reportmill:SnapCodeAll:2025.03",
+      "repositories": [
+        "https://reportmill.com/maven"
+      ],
+      "main": "snapbuild.app.App"
     },
     "rm": {
-      "script-ref": "https://reportmill.com/jbang/ReportMill.java",
-      "java-agents": []
+      "script-ref": "com.reportmill:ReportMill16:2025.03",
+      "repositories": [
+        "https://reportmill.com/maven"
+      ]
     }
-  },
-  "templates": {}
+  }
 }
