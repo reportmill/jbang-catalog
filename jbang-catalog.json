@@ -13,6 +13,10 @@
       "script-ref": "jbang/SnapCodeJx.java",
       "java-agents": []
     },
+    "snapcodejx-macarm": {
+      "script-ref": "jbang/SnapCodeJx_macarm.java",
+      "java-agents": []
+    },
     "sb": {
       "script-ref": "https://reportmill.com/jbang/SnapBuilder.java",
       "java-agents": []
