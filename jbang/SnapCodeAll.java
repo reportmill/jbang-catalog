@@ -1,6 +1,6 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //REPOS https://reportmill.com/maven
-//DEPS com.reportmill:SnapCodeAll:2025.09
+//DEPS com.reportmill:SnapCodeAll:2025.10
 
 public class SnapCodeAll {
 
