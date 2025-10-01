@@ -2,11 +2,15 @@
   "catalogs": {},
   "aliases": {
     "sc": {
-      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
+      "script-ref": "jbang/SnapCodeAll.java",
       "java-agents": []
     },
     "snapcode": {
       "script-ref": "jbang/SnapCodeAll.java",
+      "java-agents": []
+    },
+    "snapcodejx": {
+      "script-ref": "jbang/SnapCodeJx.java",
       "java-agents": []
     },
     "sb": {
