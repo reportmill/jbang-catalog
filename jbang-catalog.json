@@ -11,6 +11,10 @@
     "reportmill": {
       "script-ref": "https://reportmill.com/jbang/ReportMill.java",
       "description": "The ReportMill page layout application"
+    },
+    "sc": {
+      "script-ref": "jbang/SnapCodeAll.java",
+      "description": "Java IDE for education on desktop and in browser"
     }
   }
 }
