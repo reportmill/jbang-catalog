@@ -1,30 +1,16 @@
 {
-  "catalogs": {},
   "aliases": {
-    "sc": {
-      "script-ref": "jbang/SnapCodeAll.java",
-      "java-agents": []
-    },
     "snapcode": {
       "script-ref": "jbang/SnapCodeAll.java",
-      "java-agents": []
+      "description": "Java IDE for education on desktop and in browser"
     },
-    "snapcodejx": {
-      "script-ref": "jbang/SnapCodeJx.java",
-      "java-agents": []
-    },
-    "snapcodejx-macarm": {
-      "script-ref": "jbang/SnapCodeJx_macarm.java",
-      "java-agents": []
-    },
-    "sb": {
+    "snapbuilder": {
       "script-ref": "https://reportmill.com/jbang/SnapBuilder.java",
-      "java-agents": []
+      "description": "Java UI builder for SnapKit"
     },
-    "rm": {
+    "reportmill": {
       "script-ref": "https://reportmill.com/jbang/ReportMill.java",
-      "java-agents": []
+      "description": "The ReportMill page layout application"
     }
-  },
-  "templates": {}
+  }
 }
