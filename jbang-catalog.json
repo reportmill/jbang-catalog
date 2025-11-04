@@ -1,7 +1,7 @@
 {
   "aliases": {
     "snapcode": {
-      "script-ref": "jbang/SnapCodeAll.java",
+      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
       "description": "Java IDE for education on desktop and in browser"
     },
     "snapbuilder": {
@@ -13,7 +13,7 @@
       "description": "The ReportMill page layout application"
     },
     "sc": {
-      "script-ref": "jbang/SnapCodeAll.java",
+      "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
       "description": "Java IDE for education on desktop and in browser"
     }
   }
