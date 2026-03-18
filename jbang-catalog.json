@@ -15,6 +15,10 @@
     "sc": {
       "script-ref": "https://reportmill.com/jbang/SnapCodeAll.java",
       "description": "Java IDE for education on desktop and in browser"
+    },
+    "slideshow": {
+      "script-ref": "https://reportmill.com/jbang/SlideShow.java",
+      "description": "Java slide show app for desktop and in browser"
     }
   }
 }
